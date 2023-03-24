@@ -1,4 +1,4 @@
-# VITCOIN---Blockchain-based-Payment-Infrastructure
+# VITCOIN-Blockchain-based-Payment-Infrastructure
 
 Hello and welcome to this Github repository!
 
